@@ -1,10 +1,12 @@
-import Image from "next/image";
+import Hero from "./component/hero";
+import Main from "./component/main";
 
 export default function Home() {
   return (
     <main>
       <div>
-        <h1>Hellow World</h1>
+        <Hero />
+        <Main />
       </div>
     </main>
   );
