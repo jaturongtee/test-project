@@ -8,8 +8,8 @@ const Hero = () => {
           A brand and product designer working with clients globally
         </h1>
       </div>
-      <div className="flex  mx-auto w-1/4 mt-12  justify-center text-xs md:text-base lg:text-lg xl:text-xl ">
-        <p className="mr-3 bg-white py-2 px-3 rounded-full flex items-center justify-center leading-4 ">
+      <div className="  flex  mx-auto w-1/4 mt-12  justify-center text-xs md:text-base lg:text-lg xl:text-xl ">
+        <p className=" mr-3 bg-white py-2 px-3 rounded-full flex items-center justify-center leading-4 ">
           Expertise
         </p>
         <p className="mr-3 bg-[#e8e5e480] py-2 px-3 rounded-full flex items-center justify-center leading-4 ">
